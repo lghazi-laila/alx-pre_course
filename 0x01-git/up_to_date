@@ -1,0 +1,2 @@
+Get all the changes from the main branch locally command :
+git pull origin master
